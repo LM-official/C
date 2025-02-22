@@ -1,0 +1,6 @@
+1) At https://ftp.gnu.org/gnu/gmp download the latest version of gmp.
+For Windows the ones with .xz are better to uncompress
+example: gmp-6.3.0.tar.xz
+(here is a copy)
+
+2) This version have to be compiled, I tried but unsucessfully
