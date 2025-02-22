@@ -1,0 +1,10 @@
+1) At https://winlibs.com/#download-release download the latest version of UCRT runtime
+example: GCC 14.2.0, Win64
+(here there is a copy)
+
+2) Extract the folder and move it into C:\mingw-w64\
+
+3) Add C:\mingw-w64\mingw64\bin to the Path of environment variables
+
+4) do gcc --version in the prompt to verify the installation success
+(it might need a reboot)
