@@ -1,0 +1,10 @@
+1) At https://sourceforge.net/projects/mingw/files/latest/download download the mingw setup
+(here is a copy)
+
+2) runs it and checks all the dowloads buttons in Basic Setup.
+then click Installation -> Apply Changes
+
+3) Add C:\MinGW\bin to the Path of environment variables
+
+4) do gcc --version in the prompt to verify the installation success
+(it might need a reboot)
