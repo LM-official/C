@@ -1,0 +1,7 @@
+1) Open the prompt
+
+2) Move to the folder containing the program.c to be compiled
+
+3) for compiling do: gcc program.c -o program
+
+4) for running the code do: program
