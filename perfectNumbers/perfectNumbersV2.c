@@ -180,7 +180,7 @@ void print_list(node* head){
  */
 /* void free_list(node* head){
     node* temp;
-    while(temp) {
+    while(head) {
         temp = head;
         head = (*head).next;
         free(temp); // deallocate memory
