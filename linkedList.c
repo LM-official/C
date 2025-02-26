@@ -602,7 +602,8 @@ int count_frequents_in_list(node* head, int value){
 /**
  * @brief Sorts a linked list
  * @details Uses the quicksort algorithm for sorting the list.
- * (algorithm: https://www.geeksforgeeks.org/quick-sort-algorithm).
+ * (algorithm: https://www.geeksforgeeks.org/quick-sort-algorithm
+ * other algorithms: https://en.wikipedia.org/wiki/Sorting_algorithm).
  * Time complexity: O(n log n), n = number of nodes in the list
  * @param head Pointer to the head of the linked list
  * @return node* Pointer to the head of the sorted linked list
